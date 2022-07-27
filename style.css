@@ -163,6 +163,8 @@ p {
   height: 300px;
   width: 100%;
   background-color: hsl(277, 64%, 61%);
+  mix-blend-mode: screen;
+  opacity: 0.9;
   background-image: url(./images/image-header-mobile.jpg);
   background-size: cover;
   background-blend-mode: multiply;
